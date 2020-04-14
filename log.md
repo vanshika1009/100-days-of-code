@@ -17,3 +17,7 @@
 **Today's Progress** : Revised the Inheritence topic of OOPs and further writing basic programs highlighting different kind of inheritence that java supports.
 
 **Link to work**: [Java Prgramming](https://github.com/vanshika1009/Programming-in-Java-)
+
+### Day 3: April 13, 2020
+
+**Today's Progress** : Learned about git branching due to some issues tha I've been facing to edit this file from git bash.
