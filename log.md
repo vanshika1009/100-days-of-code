@@ -37,5 +37,67 @@
 **Today's Progress** : learned about packages in java
 
 ### Day 7: April 17, 2020 
-**Today's Progress** : SOlved one program about java and did other stuff of my collge e
 
+**Today's Progress** : Solved one program about java and did other stuff of my collge e
+
+### Day 8: April 18, 2020
+
+**Today's Progress** : Did some programs on hackerrank relating to java.
+
+**Link to work**:(https://www.hackerrank.com/domains/java?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=java)
+
+### Day 9: April 19, 2020
+
+**TOday's Progress** :Prepared a GUI using java swings for a college project. 
+
+### Day 10: April 20, 2020
+
+**Today's Progress** : Practiced competitive programs on hankerrank. 
+
+### Day 11: April 21, 2020
+
+**Today's Progress** : Did selenium testing in java
+
+**Link to Work** : [Java Prgramming](https://github.com/vanshika1009/Programming-in-Java-)
+
+### Day 12: April 22, 2020
+
+**Today's Progress** : Tried Thread implementation in java 
+
+**Link to Work** : [Java Prgramming](https://github.com/vanshika1009/Programming-in-Java-)
+
+### Day 13: April 23, 2020
+
+**Today's Progress** : took a day off
+
+### Day 14: April 24, 2020
+
+**Today's Progress** : Started with a java netweorking prject.
+
+### Day 15: April 25, 2020
+
+**Today's Progress** : did a url verification program
+
+### Day 16: April 26, 2020
+
+**Today's Program** : Staterd with my Internship work. Made a repo of .net and started working on c#.
+
+### Day 17: April 27, 2020
+
+**Today's Progress** : Solved some challneges on hacker rank 
+
+### Day 18: April 28, 2020
+
+**Today's Progress** : Started with c# basics.
+
+### Day 19: April 29, 2020
+
+**Today's Progress** : Made a basic four func calculator in c#
+
+### Day 20: April 30, 2020
+
+**TOday's Progress** : Only 32 points saway from golden badge in java 
+
+### Day 21: May 1, 2020
+
+**Today's Progress** : Started working on ASP.NET web app
