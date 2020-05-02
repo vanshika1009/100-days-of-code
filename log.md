@@ -101,3 +101,7 @@
 ### Day 21: May 1, 2020
 
 **Today's Progress** : Started working on ASP.NET web app
+
+### Day 22 : May 2, 2020 
+
+**Today's Progress** : Researched on VSTS and TFS. Created a sample page from ASP.NET.
